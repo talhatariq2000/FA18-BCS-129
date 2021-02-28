@@ -1,0 +1,43 @@
+div.whole{
+    margin: 100px;
+}
+img{
+    width:20%;
+    height:80%;
+    float: left;
+}
+h1{
+    color: #14414e;
+}
+div.name{
+    background-color: #C7E1E9;
+    border-right: 10px solid #3A606A;
+    border-radius: 10px;
+    align-content: flex-end;
+    text-align: right;
+    padding-right: 1%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    overflow: hidden;
+}
+
+div.general{
+    background-color: lightgrey;
+    border-left: 10px solid grey;
+    border-radius: 10px;
+    padding-left: 1%;
+    padding-bottom: 1px;
+}
+div.special{
+    background-color: blue;
+}
+div.left{
+    float: left;
+    overflow: hidden;
+}
+
+div.right{
+    float: right;
+    overflow: hidden;
+}
