@@ -29,15 +29,3 @@ div.general{
     padding-left: 1%;
     padding-bottom: 1px;
 }
-div.special{
-    background-color: blue;
-}
-div.left{
-    float: left;
-    overflow: hidden;
-}
-
-div.right{
-    float: right;
-    overflow: hidden;
-}
